@@ -16,6 +16,5 @@ hello dingshiwen
 hello dingshiwen
 hello dingshiwen
 hello dingshiwen
-hello dingshiwen
 hello dingshiwen master
-hello dingshiwen 
+hello dingshiwen hot-fix text
